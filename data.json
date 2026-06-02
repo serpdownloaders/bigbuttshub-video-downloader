@@ -1,0 +1,209 @@
+{
+  "github_source_repo": "https://github.com/serpcompany/bigbuttshub-downloader",
+  "serply_link": "https://serp.ly/bigbuttshub-downloader",
+  "app_name": "Bigbuttshub Video Downloader",
+  "short_description": "Download & Save Bigbuttshub Videos Easily for Offline Viewing (Browser Extension)",
+  "long_description": "Bigbuttshub Downloader is a browser extension candidate designed for a focused, single-domain workflow on bigbuttshub.com. It detects video candidates exposed by the page player and metadata, keeping the entire download process inside your browser without requiring external tools or manual source hunting. The extension adds a player-level button and inspects standard media tags so you can review available content before saving.",
+  "main_video": "",
+  "featured_image": "",
+  "screenshots": [
+    "https://apps.serp.co/media/optimized-products/bigbuttshub-downloader-fullscreen-01-0a60ff3426.webp",
+    "https://apps.serp.co/media/optimized-products/bigbuttshub-downloader-fullscreen-02-46557ff431.webp",
+    "https://apps.serp.co/media/optimized-products/bigbuttshub-downloader-fullscreen-03-3b1f43e965.webp",
+    "https://apps.serp.co/media/optimized-products/bigbuttshub-downloader-fullscreen-04-2a65f14cb7.webp"
+  ],
+  "chromestore_link": "",
+  "firefoxstore_link": "",
+  "other_links": [],
+  "faqs": [
+    {
+      "question": "How do I download a Big Butts Hub video?",
+      "answer": "Open a supported Big Butts Hub page, let the player load, and use the extension workflow to inspect any detected video candidates."
+    },
+    {
+      "question": "What pages is this aimed at?",
+      "answer": "The best fit is Big Butts Hub's long descriptive slug pages under bigbuttshub.com."
+    },
+    {
+      "question": "What formats can it detect?",
+      "answer": "The configuration checks direct page-media selectors plus Open Graph and Twitter stream metadata when those values are exposed."
+    },
+    {
+      "question": "Does it work on every page?",
+      "answer": "That is not proven by the current readiness status. The target is exact, but extraction still needs real review."
+    },
+    {
+      "question": "Is this extension released?",
+      "answer": "The extension is available as a candidate release on GitHub. Public store listings may not be available yet."
+    }
+  ],
+  "permissions": [
+    {
+      "name": "",
+      "description": "Only download content you own or have explicit permission to save"
+    }
+  ],
+  "features": [
+    "Purpose-built for bigbuttshub.com long descriptive video pages",
+    "Player-button workflow near the site's video wrapper",
+    "Detects video candidates from page media tags and metadata",
+    "Single-domain focus for a cleaner, more reliable experience",
+    "Candidate status with honest readiness language",
+    "Single-domain focus on bigbuttshub.com for a cleaner workflow",
+    "Player-button entry point near the site's video wrapper",
+    "Detects video candidates from direct media tags",
+    "Reads video metadata from Open Graph and Twitter stream fields",
+    "Title detection from standard page elements and metadata",
+    "Thumbnail detection from Open Graph and video poster attributes",
+    "Offscreen folder organized for Big Butts Hub content",
+    "Candidate status with transparent readiness language"
+  ],
+  "content": {
+    "why": [
+      "Big Butts Hub pages use long descriptive URLs that are easy to browse but not always straightforward to download from. Right-click saving often misses the actual playable media URL, and generic downloader tools can surface noise instead of the real page video. You end up digging through page source or switching between tabs just to save a single clip.",
+      "Bigbuttshub Downloader keeps everything in one place. It is built specifically for bigbuttshub.com, targets the site's player wrapper, and reads video candidates from the media tags and metadata the page already exposes. Instead of hunting through source code, you use a player-level button to review and save available content directly from the browser."
+    ],
+    "how_it_works": [
+      "Install the extension from the latest release.",
+      "Open Bigbuttshub and go to a supported video page.",
+      "Start playback so the extension can detect the media.",
+      "Open the popup or use the on-page controls.",
+      "Choose the quality option you want.",
+      "Start the download and wait for the MP4 export to finish.",
+      "Save the final file locally."
+    ],
+    "tutorial": [
+      "Open your browser and install the Bigbuttshub Downloader extension from the latest release.",
+      "Navigate to bigbuttshub.com and find a video page with a long descriptive URL.",
+      "Let the page fully load and start video playback if needed.",
+      "Look for the player button added near the video wrapper on the page.",
+      "Click the button or open the extension popup to inspect detected candidates.",
+      "Review the available video candidates the extension has found.",
+      "Select the quality option you want to save.",
+      "Start the download and wait for the file to finish saving to your device."
+    ],
+    "supported_formats": [
+      "Input: Video candidates exposed by the page player and metadata tags including direct video sources and Open Graph stream fields",
+      "Output: MP4",
+      "Saved files use MP4 so they are easier to replay on standard media players, move between devices, or archive locally."
+    ],
+    "target_users": [
+      "Big Butts Hub viewers who want a simpler download workflow than manual source hunting",
+      "Users who prefer site-specific tools over generic multi-hoster downloaders",
+      "People who browse long descriptive video pages and want to save clips directly",
+      "Anyone looking for a browser-based download workflow without external software"
+    ],
+    "use_cases": [
+      "Save an available Big Butts Hub video from a long descriptive page URL",
+      "Detect direct video candidates exposed by the page player or metadata",
+      "Use an in-player button instead of digging through page source",
+      "Keep a single-domain workflow focused on Big Butts Hub rather than messy multi-hoster promises",
+      "Review available candidates inside the browser before saving"
+    ],
+    "troubleshooting": [
+      "No video candidates detected Make sure the video player has fully loaded and playback has started. The extension needs the page to expose media tags before it can detect candidates.",
+      "Player button not appearing Refresh the page and ensure the video wrapper has loaded completely. The button attaches to the player container after the page finishes rendering.",
+      "Download fails or produces a broken file Try a different video page to confirm the issue is page-specific. Some pages may not expose usable candidates depending on how the media is embedded.",
+      "Extension not responding Check that you installed the latest release from the GitHub Releases page. Older builds may have compatibility issues.",
+      "Candidates appear but cannot be downloaded The extension detects what the page exposes, but not every detected candidate will be a playable or downloadable file. Try another video page and check if the issue persists."
+    ],
+    "trial_access": [
+      "Includes 3 free downloads so you can test the workflow first",
+      "Email sign-in uses secure one-time password verification",
+      "No credit card required for the trial",
+      "Unlimited downloads are available with a paid license"
+    ],
+    "installation_instructions": [
+      "Open the latest release page.",
+      "Download the correct build for your browser.",
+      "Install the extension.",
+      "Open a supported Bigbuttshub page.",
+      "Use the popup to detect and download the media."
+    ],
+    "notes": [
+      "Only download content you own or have explicit permission to save",
+      "An internet connection is required for downloads",
+      "The extension is a candidate and extraction still needs real review before full release",
+      "Use only content you have rights to download from Big Butts Hub"
+    ],
+    "about": [
+      "Big Butts Hub is a video platform featuring long descriptive clip pages with embedded players. The Bigbuttshub Downloader extension helps users detect and save available video candidates directly from these pages without leaving the browser."
+    ]
+  },
+  "serpx_link": "https://serpx.link/bigbuttshub-downloader",
+  "github_topics": [
+    "bigbuttshub-download",
+    "bigbuttshub-downloader",
+    "bigbuttshub-video-downloader",
+    "bigbuttshub-video-downloader-online",
+    "bigbuttshub-video-downloader-mac",
+    "bigbuttshub-video-downloader-window",
+    "bigbuttshub-video-downloader-free",
+    "bigbuttshub-video-downloader-extension",
+    "bigbuttshub-video-downloader-app",
+    "bigbuttshub-video-downloader-chrome",
+    "bigbuttshub-video-downloader-from-url",
+    "how-to-download-bigbuttshub-videos",
+    "how-to-download-bigbuttshub-videos-mac",
+    "how-to-download-bigbuttshub-videos-windows",
+    "how-to-download-bigbuttshub-videos-online",
+    "how-to-download-bigbuttshub-videos-free",
+    "how-to-download-from-bigbuttshub",
+    "how-to-download-videos-from-bigbuttshub",
+    "download-bigbuttshub-videos",
+    "bigbuttshub-video-tutorial",
+    "save-bigbuttshub-videos",
+    "bigbuttshub-video-content-saver",
+    "how-to-download-bigbuttshub-videos-for-free"
+  ],
+  "hashtags": [
+    "#BigbuttshubDownload",
+    "#BigbuttshubDownloader",
+    "#BigbuttshubVideoDownloader",
+    "#BigbuttshubVideoDownloaderOnline",
+    "#BigbuttshubVideoDownloaderMac",
+    "#BigbuttshubVideoDownloaderWindow",
+    "#BigbuttshubVideoDownloaderFree",
+    "#BigbuttshubVideoDownloaderExtension",
+    "#BigbuttshubVideoDownloaderApp",
+    "#BigbuttshubVideoDownloaderChrome",
+    "#BigbuttshubVideoDownloaderFromURL",
+    "#HowToDownloadBigbuttshubVideos",
+    "#HowToDownloadBigbuttshubVideosMac",
+    "#HowToDownloadBigbuttshubVideosWindows",
+    "#HowToDownloadBigbuttshubVideosOnline",
+    "#HowToDownloadBigbuttshubVideosFree",
+    "#HowToDownloadFromBigbuttshub",
+    "#HowToDownloadVideosFromBigbuttshub",
+    "#DownloadBigbuttshubVideos",
+    "#BigbuttshubVideoTutorial",
+    "#SaveBigbuttshubVideos",
+    "#BigbuttshubVideoContentSaver",
+    "#HowToDownloadBigbuttshubVideosForFree"
+  ],
+  "youtube_tags": [
+    "Bigbuttshub Download",
+    "Bigbuttshub Downloader",
+    "Bigbuttshub Video Downloader",
+    "Bigbuttshub Video Downloader Online",
+    "Bigbuttshub Video Downloader Mac",
+    "Bigbuttshub Video Downloader Window",
+    "Bigbuttshub Video Downloader Free",
+    "Bigbuttshub Video Downloader Extension",
+    "Bigbuttshub Video Downloader App",
+    "Bigbuttshub Video Downloader Chrome",
+    "Bigbuttshub Video Downloader From URL",
+    "How To Download Bigbuttshub Videos",
+    "How To Download Bigbuttshub Videos Mac",
+    "How To Download Bigbuttshub Videos Windows",
+    "How To Download Bigbuttshub Videos Online",
+    "How To Download Bigbuttshub Videos Free",
+    "How To Download From Bigbuttshub",
+    "How To Download Videos From Bigbuttshub",
+    "Download Bigbuttshub Videos",
+    "Bigbuttshub Video Tutorial",
+    "Save Bigbuttshub Videos",
+    "Bigbuttshub Video Content Saver",
+    "How To Download Bigbuttshub Videos For Free"
+  ]
+}
